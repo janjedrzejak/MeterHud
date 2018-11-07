@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                     int roundKilometerPerHour;
                     roundKilometerPerHour= (int)kilometerPerHour;
                     textSpeed.setText(""+roundKilometerPerHour);
+                    
                 }
 
                 @Override
