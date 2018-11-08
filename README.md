@@ -12,6 +12,6 @@ MeterHud is a simple app on your smartphone. You can use your phone as HUD speed
 ## Technologies
 * Android JAVA
 ## Interface
-<img width="600" src="https://github.com/janjedrzejak/MeterHud/blob/demo/1.jpg" ></img>
+<p align="center"><img width="600" src="https://github.com/janjedrzejak/MeterHud/blob/demo/1.jpg" ></img></p>
 
 
