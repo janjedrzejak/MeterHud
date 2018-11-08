@@ -13,5 +13,9 @@ MeterHud is a simple app on your smartphone. You can use your phone as HUD speed
 * Android JAVA
 ## Interface
 <p align="center"><img width="600" src="https://github.com/janjedrzejak/MeterHud/blob/demo/1.jpg" ></img></p>
+## Future functionalities
+* Average speed calculate
+* Max speed saving
+
 
 
