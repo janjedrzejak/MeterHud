@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     meterPerSecound = location.getSpeed(); //m/s
-                    kilometerPerHour = (meterPerSecound * 1000) / 3600; //km/h
+                    kilometerPerHour = (meterPerSecound / 1000) * 3600; //km/h
                     int roundKilometerPerHour;
                     roundKilometerPerHour= (int)kilometerPerHour;
                     textSpeed.setText(""+roundKilometerPerHour);
